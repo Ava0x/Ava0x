@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ava0x
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Ava0x/Ava0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->-well i want to learn coding 
+- and i think you can help with that
+- that'll be generous of you 
+- nice to meet you
